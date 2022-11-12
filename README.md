@@ -9,11 +9,11 @@
  <p align="center"> <a href="https://github.com/Muharrem-TR" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/muharrem-karapazar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postman.com/muharremtr" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
  
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muharrem-TR&show_icons=true&theme=rose_pine" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Muharrem-TR&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Muharrem-TR&show_icons=true&theme=rose_pine&hide_border=true" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Muharrem-TR&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
 </p>
 
 
-<h3><p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="280" height="11"/> < My Languages and Tools > <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="280" height="11"/></p></h3>
+<h3><p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="295" height="11"/> < My Languages and Tools > <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="295" height="11"/></p></h3>
 
 
 
