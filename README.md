@@ -1,9 +1,8 @@
-### Hi there 👋 
+### Hi there 👋 :eyes:
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="1100" height="none"/></p>
 
-<p align="center">My name is Muharrem Karapazar. I am dealing with software. For now, I have directed my career as a Software Quality Specialist.
-I would be happy to cooperate on any project. I have some small projects that I can publish on Github, that is, here, and some small projects that I help my friends with. In these projects, I have included the simple versions of some of the things I use in the projects as an example. You can check my linkedin account for my professional career.</p>
+<p align="center">My name is Muharrem Karapazar. I am dealing with software. :computer: For now, I have directed my career as a Software Quality Specialist. :white_check_mark: I would be happy to cooperate on any project. :blush: I have some small projects that I can publish on Github, that is, here, and some small projects that I help my friends with. :baby_chick: In these projects, I have included the simple versions of some of the things I use in the projects as an example. You can check my linkedin account for my professional career. :mag:</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="1100" height="none"/></p>
  
@@ -14,7 +13,7 @@ I would be happy to cooperate on any project. I have some small projects that I 
 </p>
 
 
-<h3><p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="300" height="11"/> < My Languages and Tools > <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="300" height="11"/></p></h3>
+<h3><p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="280" height="11"/> < My Languages and Tools > <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="280" height="11"/></p></h3>
 
 
 
