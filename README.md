@@ -118,8 +118,7 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="html" width="1100" height="none"/></p>
 
-<a href="https://github.com/Muharrem-TR/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Muharrem-TR&bg_color=1F222E&color=aaea0c&line=067b53&point=aff1f6&hide_border=true" /></a>
+
 
 
